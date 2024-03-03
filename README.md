@@ -1,4 +1,4 @@
-# proyecto formativo: Modelado Backend de un sistema de gestion de eventos.
+# PROYECTO SOCIOFORMATIVO MODELADO EN 3D BLENDER.
 - Alexander Rodriguez Fernandez
 
 ##	Introducción
