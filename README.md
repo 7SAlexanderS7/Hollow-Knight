@@ -87,9 +87,10 @@ Se presentan las conclusiones del proyecto, resumiendo los hallazgos más import
 
 
 
-### foto de la empresa para la cual estan desarrollando
+### foto de la idea para el proyecto
 
-https://drive.google.com/file/d/16uGyfFWwp2d_p8DkC8GyyANrdpklhFQ3/view?usp=sharing
+[![hollow-knight.webp](https://i.postimg.cc/jjsx4NRj/hollow-knight.webp)](https://postimg.cc/QFyZXF9L)
+
 
 
 ### ubicacion
