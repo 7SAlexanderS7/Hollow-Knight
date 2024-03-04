@@ -82,7 +82,21 @@ Se creará un esqueleto y se asignarán pesos a los vértices del modelo para qu
 
 ##	Modelado o Sistematización.
 
-Se comenzo
+Se comenzo con la idea base del modelo 3D de Hornet, la protectora de Hollownest del videojuego Hollow Knight. El modelo está realizado en Blender, un software de modelado 3D gratuito y de código abierto.
+
+Análisis del Modelado:
+
+1. Modelado:
+
+- Técnica: El modelo parece estar hecho principalmente con técnicas de modelado poligonal, con algunas áreas que podrían haber utilizado subdivisión de superficies.
+- Topología: La topología del modelo parece ser limpia y eficiente, con un buen flujo de borde y triangulación.
+- Geometría: La geometría del modelo es precisa y detallada, capturando la forma y las características de Hornet con fidelidad.
+
+2. Texturizado:
+
+- Materiales: El modelo utiliza una variedad de materiales para representar diferentes superficies, como metal, tela y piel.
+- Texturas: Las texturas son de alta calidad y se ajustan bien al modelo.
+- Mapas: El modelo utiliza mapas normales, de oclusión ambiental y de especularidad para añadir detalle y realismo.
 
 ##	Conclusiones
 
@@ -112,13 +126,9 @@ Este proyecto ha sido un gran aprendizaje y me ha permitido mejorar mis habilida
 -  CURSO BLENDER - Curso Blender Desde 0 https://www.youtube.com/watch?v=vS7ioHXPZn0&list=PLbmPYj7QskBSRiXNxxbDy5O5D1v-zeIY5
 
 
-##	Anexos
-
-
 
 ### foto de la idea para el proyecto
 
 [![hollow-knight.webp](https://i.postimg.cc/jjsx4NRj/hollow-knight.webp)](https://postimg.cc/QFyZXF9L)
 
 
-### ubicacion
