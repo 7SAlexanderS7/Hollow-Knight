@@ -1,4 +1,4 @@
-# proyecto formativo: Modelado Backend de un sistema de gestion de eventos.
+# PROYECTO FORMATIVO MODELADO DE UN OBJETO ANIMADO EN 3D
 - Alexander Rodriguez Fernandez
 
 ##	Introducción
@@ -130,6 +130,8 @@ Este proyecto ha sido un gran aprendizaje y me ha permitido mejorar mis habilida
 ### foto de la idea para el proyecto
 
 [![hollow-knight.webp](https://i.postimg.cc/jjsx4NRj/hollow-knight.webp)](https://postimg.cc/QFyZXF9L)
+
+
 
 
 
