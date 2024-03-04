@@ -1,4 +1,4 @@
-# PROYECTO SOCIOFORMATIVO MODELADO EN 3D BLENDER.
+# proyecto formativo: Modelado Backend de un sistema de gestion de eventos.
 - Alexander Rodriguez Fernandez
 
 ##	Introducción
@@ -21,13 +21,17 @@ Para la realización del proyecto se utilizarán los siguientes conceptos:
 
 - Anatomía insectoide: Investiga la anatomía de los insectos para comprender la estructura y las proporciones del cuerpo del Caballero, capturando su esencia artrópoda.
 
+[![hollow-knight-FONT.webp](https://i.postimg.cc/Y24dCsQp/hollow-knight-FONT.webp)](https://postimg.cc/K42P9Q9V)
+
 - Diseño del Caballero: Analiza en detalle las características del Caballero en el juego, desde su armadura y caparazón hasta su espada y demás detalles, absorbiendo la    estética distintiva del universo Hollow Knight.
 
 - Modelado 3D: Se utilizarán las herramientas de modelado de Blender para crear la malla 3D del Caballero. Se prestará especial atención a la topología del modelo para facilitar su animación posterior.
 
+
 - Texturizado: Se crearán y aplicarán texturas PBR al modelo utilizando software de edición de imágenes como Photoshop o Substance Painter. Se buscará un balance entre la fidelidad al diseño original y la calidad visual.
 
 - Rigging: Se creará un esqueleto y se asignarán pesos a los vértices del modelo para que pueda ser animado. Se utilizarán técnicas de rigging avanzadas para lograr un movimiento natural y fluido.
+
 
 - Animación: Se crearán animaciones básicas del Caballero utilizando las herramientas de animación de Blender. Se podrán realizar animaciones de movimiento, ataque, idle y otras acciones.
 
@@ -64,24 +68,49 @@ El proyecto se desarrollará siguiendo las siguientes etapas:
 
 El modelado del Caballero se realizará utilizando las herramientas de modelado de Blender. Se comenzará con una forma básica y se irá añadiendo detalle gradualmente. Se prestará especial atención a la precisión del diseño original del personaje.
 
+[![Modelado.png](https://i.postimg.cc/L5k5SZFY/Modelado.png)](https://postimg.cc/Wq3T6z3T)
+
 ## Texturizado:
 
 Se crearán y aplicarán texturas PBR al modelo para darle un aspecto realista. Las texturas se crearán utilizando software de edición de imágenes como Photoshop o Substance Painter.
 
 ## Rigging:
 
-Se creará un esqueleto y se asignarán pesos a los vértices del modelo para que pueda ser animado. Esto permitirá que el Caballero pueda realizar diferentes movimientos en el futuro.##	Modelado o Sistematización.
+Se creará un esqueleto y se asignarán pesos a los vértices del modelo para que pueda ser animado. Esto permitirá que el Caballero pueda realizar diferentes movimientos en el futuro.
 
+[![Rigging.png](https://i.postimg.cc/J7jGZSHr/Rigging.png)](https://postimg.cc/c64xN9c2)
+
+##	Modelado o Sistematización.
+
+Se comenzo
 
 ##	Conclusiones
 
-Se presentan las conclusiones del proyecto, resumiendo los hallazgos más importantes, destacando los logros alcanzados y discutiendo posibles áreas de mejora o futuras investigaciones.
+Este proyecto de Blender me ha permitido explorar en profundidad las capacidades del software y desafiar mis habilidades de modelado, texturizado y rigging. Ha sido una experiencia gratificante dar vida a Hornet, un personaje tan querido por la comunidad de Hollow Knight.
+
+- Aspectos positivos:
+
+- Modelado: Estoy satisfecho con el nivel de detalle logrado en el modelo de Hornet. La armadura, el caparazón y el aguijón son fieles al diseño original del juego.
+- Texturizado: Las texturas PBR le dan al modelo un aspecto realista y responden a la luz de forma convincente.
+- Rigging: El sistema de rigging es flexible y me permite animar a Hornet con fluidez y control.
+
+- Aspectos a mejorar:
+
+- Renderizado: Las imágenes y vídeos renderizados podrían tener una calidad superior. Experimentación con diferentes configuraciones de renderizado y técnicas de iluminación podría mejorar el resultado final.
+- Animación: Me gustaría explorar más a fondo las capacidades de animación de Blender para crear escenas dinámicas con Hornet.
+- Posición final: La pose final de Hornet en la imagen podría ser más dinámica e interesante.
+
+- Conclusiones:
+
+Este proyecto ha sido un gran aprendizaje y me ha permitido mejorar mis habilidades en Blender. Estoy orgulloso del resultado final, pero también reconozco que hay espacio para la mejora. En el futuro, me gustaría seguir explorando las posibilidades del software y mejorando mis habilidades para crear proyectos aún más ambiciosos.
 
 ##	Bibliografía
 
+-  Como colocar imagenes de referencia en Blender 2.92 - Tutorial español, https://www.youtube.com/watch?v=pOU54W0oBAg
 -  Animar PARTÍCULAS FLOTANDO en Blendere and Inertia,  https://www.youtube.com/watch?v=_FP01PO_JHMç
 -  Tutorial: Blender MODELLING For Absolute Beginners | Low Poly Girl, https://www.youtube.com/watch?v=sbCW0Cs7aI8
 -  CURSO BLENDER - Curso Blender Desde 0 https://www.youtube.com/watch?v=vS7ioHXPZn0&list=PLbmPYj7QskBSRiXNxxbDy5O5D1v-zeIY5
+
 
 ##	Anexos
 
@@ -90,7 +119,6 @@ Se presentan las conclusiones del proyecto, resumiendo los hallazgos más import
 ### foto de la idea para el proyecto
 
 [![hollow-knight.webp](https://i.postimg.cc/jjsx4NRj/hollow-knight.webp)](https://postimg.cc/QFyZXF9L)
-
 
 
 ### ubicacion
