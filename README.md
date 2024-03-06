@@ -83,6 +83,8 @@ El modelado del Caballero se realizará utilizando las herramientas de modelado 
 
 Se crearán y aplicarán texturas PBR al modelo para darle un aspecto realista. Las texturas se crearán utilizando software de edición de imágenes como Photoshop o Substance Painter.
 
+[![Texturizado-Blender.png](https://i.postimg.cc/nLzPSPgH/Texturizado-Blender.png)](https://postimg.cc/qNPwzjpY)
+
 ## Rigging:
 
 Se creará un esqueleto y se asignarán pesos a los vértices del modelo para que pueda ser animado. Esto permitirá que el Caballero pueda realizar diferentes movimientos en el futuro.
@@ -97,11 +99,15 @@ Análisis del Modelado:
 
 1. Modelado:
 
+[![Modelado.png](https://i.postimg.cc/XqkM6y83/Modelado.png)](https://postimg.cc/V0vZjvpH)
+
 - Técnica: El modelo parece estar hecho principalmente con técnicas de modelado poligonal, con algunas áreas que podrían haber utilizado subdivisión de superficies.
 - Topología: La topología del modelo parece ser limpia y eficiente, con un buen flujo de borde y triangulación.
 - Geometría: La geometría del modelo es precisa y detallada, capturando la forma y las características de Hornet con fidelidad.
 
 2. Texturizado:
+
+[![Texturizado-Hollow.png](https://i.postimg.cc/XqYqrFvN/Texturizado-Hollow.png)](https://postimg.cc/bD4pMZb4)
 
 - Materiales: El modelo utiliza una variedad de materiales para representar diferentes superficies, como metal, tela y piel.
 - Texturas: Las texturas son de alta calidad y se ajustan bien al modelo.
