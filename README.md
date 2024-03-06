@@ -39,6 +39,11 @@ Para la realización del proyecto se utilizarán los siguientes conceptos:
 
 - Requisitos del sistema:
 
+  
+[![Blender-Logo.png](https://i.postimg.cc/TPtF06P2/Blender-Logo.png)](https://postimg.cc/2qB0jgvg)
+
+[![Interfaz-Blender.gif](https://i.postimg.cc/fb6HbT2P/Interfaz-Blender.gif)](https://postimg.cc/CZsCPYVC)
+
 - Sistema operativo: Windows 10 o superior, macOS 10.13 o superior, Linux (Ubuntu, Fedora, openSUSE, etc.)
 - Procesador: Intel Core i5 o superior, AMD Ryzen 5 o superior.
 - Memoria RAM: 8 GB o superior.
@@ -48,6 +53,10 @@ Para la realización del proyecto se utilizarán los siguientes conceptos:
 ## Opciones de instalación:
 
 - Descarga desde el sitio web oficial:
+
+[![Descarga-Blender.png](https://i.postimg.cc/wxnXNGgC/Descarga-Blender.png)](https://postimg.cc/Dmd4k5W6)
+  
+[![Como-instalar-Blender-en-el-ordenador-06.webp](https://i.postimg.cc/T3VXrFmh/Como-instalar-Blender-en-el-ordenador-06.webp)](https://postimg.cc/XrYhW2s0)
 
 Paso 1: Accede a la página de descargas de Blender: https://www.blender.org/download/
 Paso 2: Selecciona la versión de Blender compatible con tu sistema operativo.
