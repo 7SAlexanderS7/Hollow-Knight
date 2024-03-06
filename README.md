@@ -95,7 +95,7 @@ Se creará un esqueleto y se asignarán pesos a los vértices del modelo para qu
 
 Se comenzo con la idea base del modelo 3D de Hornet, la protectora de Hollownest del videojuego Hollow Knight. El modelo está realizado en Blender, un software de modelado 3D gratuito y de código abierto.
 
-Análisis del Modelado:
+## Análisis del Modelado:
 
 1. Modelado:
 
