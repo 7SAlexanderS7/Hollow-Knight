@@ -129,8 +129,6 @@ Este proyecto de Blender me ha permitido explorar en profundidad las capacidades
 - Animación: Me gustaría explorar más a fondo las capacidades de animación de Blender para crear escenas dinámicas con Hornet.
 - Posición final: La pose final de Hornet en la imagen podría ser más dinámica e interesante.
 
-- Conclusiones:
-
 Este proyecto ha sido un gran aprendizaje y me ha permitido mejorar mis habilidades en Blender. Estoy orgulloso del resultado final, pero también reconozco que hay espacio para la mejora. En el futuro, me gustaría seguir explorando las posibilidades del software y mejorando mis habilidades para crear proyectos aún más ambiciosos.
 
 ##	Bibliografía
